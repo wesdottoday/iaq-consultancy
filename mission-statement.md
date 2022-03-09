@@ -1,14 +1,20 @@
 # Mission Statement (WIP)
 
+These are our working mission statements, roughly in order of current preference.
+
+> We're on a mission to create a happier, healthier world - one home at a time.
+
 > Building a healthier community - one person, one home, one remedy at a time.
 
 > Creating a healthier world - one person, one home, one remedy at a time.
 
-> Happiness and Health - we’re on a mission to create a happier, healthier world, one home at a time.
+> Building a healthier world - one home, one remedity at a time.
 
 > Health starts at home - we make that a reality.
 
 > Health starts in the home - we’re on a mission to improve people’s health, one home at a time.
+
+> Happiness and Health - we’re on a mission to create a happier, healthier world, one home at a time.
 
 ### Misc thoughts:
 
