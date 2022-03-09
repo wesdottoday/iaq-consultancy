@@ -13,6 +13,7 @@ Building this company will have a slow burn, because it will require thoughtful 
 - [ ] Write a company mission statement
 - [ ] Write a company vision statement: 1yr, 3yr, 5yr, 10yr
 - [ ] Write company values
+- [ ] What will we do better than everyone else?
 
 ### Documents
 
