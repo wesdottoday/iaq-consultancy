@@ -1,4 +1,4 @@
-# Mission Statement (WIP)
+# Mission Statement
 
 > Build healthy communities starts with one: one home, one individual, one change.
 
