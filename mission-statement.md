@@ -1,5 +1,9 @@
 # Mission Statement (WIP)
 
+> Build healthy communities starts with one: one home, one individual, one change.
+
+A mission statement has been chosen. I wrote about the process [here](https://wesdottoday.hashnode.dev/choosing-a-mission-statement).
+
 These are our working mission statements, roughly in order of current preference.
 
 > We're on a mission to create a happier, healthier world - one home at a time.
