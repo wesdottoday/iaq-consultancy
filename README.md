@@ -11,7 +11,7 @@ Building this company will have a slow burn, because it will require thoughtful 
 ### TODO
 
 - [x] Write a company mission statement
-- [ ] Write a company vision statement
+- [x] Write a company vision statement
 - [ ] Write company values
 - [ ] What will we do better than everyone else?
 
