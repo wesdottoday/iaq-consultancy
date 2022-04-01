@@ -8,12 +8,12 @@ I'll be building this consultancy in public. Why is this important to me? A few 
 
 Building this company will have a slow burn, because it will require thoughtful planning for my family to make it a reality.
 
-### TODO
+### Blog Posts
 
-- [x] Write a company mission statement
-- [x] Write a company vision statement
-- [ ] Write company values
-- [ ] What will we do better than everyone else?
+- [Starting Over](https://wesdottoday.hashnode.dev/starting-over)
+- [Choosing a Mission Statement](https://wesdottoday.hashnode.dev/choosing-a-mission-statement)
+- [On Developing a Company Vision Statement](https://wesdottoday.hashnode.dev/on-developing-a-company-vision-statement)
+- [Just Do Good Work](https://wesdottoday.hashnode.dev/just-do-good-work)
 
 ### Documents
 
